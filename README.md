@@ -19,7 +19,7 @@ Lead Engineer at Reservato.ai, owning engineering end to end: backend, mobile, w
 
 ![Commits per week across approved public GitHub repositories](widgets/activity.svg)
 
-7 commits across 4 approved public GitHub repositories in the last 90 days \(synchronised 2026-11-11\). [Explore the Observatory](https://dev-identity-ten.vercel.app/observatory)
+4 commits across 4 approved public GitHub repositories in the last 90 days \(synchronised 2026-11-11\). [Explore the Observatory](https://dev-identity-ten.vercel.app/observatory)
 
 ## FEATURED PROJECTS
 
